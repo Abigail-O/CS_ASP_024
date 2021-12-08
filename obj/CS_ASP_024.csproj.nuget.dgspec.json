@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Macon Robotics\\Source\\Repos\\CS_ASP_024\\CS_ASP_024.csproj": {}
+    "C:\\Users\\maconrm180\\Documents\\GitHub\\Abi O\\024\\CS_ASP_024\\CS_ASP_024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Macon Robotics\\Source\\Repos\\CS_ASP_024\\CS_ASP_024.csproj": {
+    "C:\\Users\\maconrm180\\Documents\\GitHub\\Abi O\\024\\CS_ASP_024\\CS_ASP_024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Macon Robotics\\Source\\Repos\\CS_ASP_024\\CS_ASP_024.csproj",
+        "projectUniqueName": "C:\\Users\\maconrm180\\Documents\\GitHub\\Abi O\\024\\CS_ASP_024\\CS_ASP_024.csproj",
         "projectName": "CS_ASP_024",
-        "projectPath": "C:\\Users\\Macon Robotics\\Source\\Repos\\CS_ASP_024\\CS_ASP_024.csproj",
-        "packagesPath": "C:\\Users\\Macon Robotics\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Macon Robotics\\Source\\Repos\\CS_ASP_024\\obj\\",
+        "projectPath": "C:\\Users\\maconrm180\\Documents\\GitHub\\Abi O\\024\\CS_ASP_024\\CS_ASP_024.csproj",
+        "packagesPath": "C:\\Users\\maconrm180\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maconrm180\\Documents\\GitHub\\Abi O\\024\\CS_ASP_024\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Macon Robotics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maconrm180\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +29,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,7 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -60,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

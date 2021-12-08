@@ -1,0 +1,15 @@
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\bin\Debug\024.exe.config
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\bin\Debug\024.exe
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\bin\Debug\024.pdb
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\024.csprojAssemblyReference.cache
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\MainWindow.g.cs
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\App.g.cs
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\024_MarkupCompile.cache
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\024_MarkupCompile.lref
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\MainWindow.baml
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\024.g.resources
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\_024.Properties.Resources.resources
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\024.csproj.GenerateResource.cache
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\024.csproj.CoreCompileInputs.cache
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\024.exe
+C:\Users\maconrm180\Documents\GitHub\Abi O\024\CS_ASP_024\024\obj\Debug\024.pdb

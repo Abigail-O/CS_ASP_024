@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace CS_ASP_024
+namespace _024
 {
     /// <summary>
     /// Interaction logic for App.xaml
